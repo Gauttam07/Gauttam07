@@ -56,7 +56,7 @@ I love to solve challenging problems and explore new technologies.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauttam07" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-gauttam/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://leetcode.com/Gauttam07/" target="_blank">
