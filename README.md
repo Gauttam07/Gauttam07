@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FFEF&background=00000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Gauttam07;Full-Stack+Developer+%7C+Problem+Solver+%F0%9F%A7%AA;Passionate+about+Tech+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFEF&background=00000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Gauttam07;Full-Stack+Developer+%7C+Problem+Solver+%F0%9F%A7%AA;Passionate+about+Tech+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -56,12 +56,17 @@ I love to solve challenging problems and explore new technologies.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-gauttam/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  <div align="center">
+  <a href="https://linkedin.com/in/Gauttam07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://leetcode.com/Gauttam07/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/your-leetcode-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
 </p>
 
 ---
@@ -82,6 +87,21 @@ I love to solve challenging problems and explore new technologies.
 <div align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauttam07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+
+
+
+
+
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<div align="center">
+  <h3>👀 Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=Gauttam07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 
