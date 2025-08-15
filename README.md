@@ -68,13 +68,22 @@ I love to solve challenging problems and explore new technologies.
 
 ## ✨ Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gauttam07&show_icons=true&theme=radical&hide_title=true" alt="Gauttam07's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauttam07&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gauttam07&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <!-- Main Stats (Removed Total PRs, Total Issues, etc.) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauttam07&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&hide=prs,issues,contribs" alt="Gauttam07's Stats" /> 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauttam07&theme=radical&hide_border=true&hide_longest_streak=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauttam07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
 
 ---
 
